@@ -1,6 +1,7 @@
 - 🔭 Illustrator, Streamer
 - 🌱 Fullstack dev wanna be
-- 😄 she/her
+- 🌸 she/her
+- ❤ videogames, horror movies, art
 
 <!--
 **emmegray/emmegray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

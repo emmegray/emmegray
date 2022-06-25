@@ -2,7 +2,7 @@
 - 🌱 Fullstack dev wanna be
 - 🌸 she/her
 - ❤ videogames, horror movies, art
-
+<img src="https://media3.giphy.com/media/69bK4OX5RcklWMM69Z/giphy.gif?cid=ecf05e473dpcji19xyiixsdtooy7ssmru7yubew6u482wnat&rid=giphy.gif">
 <!--
 **emmegray/emmegray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

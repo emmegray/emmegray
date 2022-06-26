@@ -4,7 +4,7 @@
 </p>
 <hr>
 <p align="center">
-<b>【 Manuela | 94 | Italy | she/her | Illustrator & Streamer | Frontend dev wanna be】</b>
+<b>【 Manuela | 94 | Italy | she/her | Illustrator & Streamer | Frontend dev wanna be 】</b>
 </p>
 <hr>
 <p align="center">

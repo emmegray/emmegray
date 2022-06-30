@@ -40,6 +40,10 @@
 <h6>◻ Microphone - Neewer NW-700 + audio mixer</h6>
 <h6>◻ OS - Windows 10</h6>
 </details>
+
+<p align="right">
+<a href='https://ko-fi.com/A332E9W' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</p>
          
 <!--
 **emmegray/emmegray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
